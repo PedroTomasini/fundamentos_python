@@ -1,0 +1,7 @@
+
+Como usar o modo interativo do Python.
+
+ Abrir terminal escrever > python3
+ Para sair > exit()
+ 
+ Invoca um sistema de ajuda integrado >   help()
