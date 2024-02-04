@@ -15,4 +15,4 @@ menu = "Python"
 print("####" + menu + "####")  # ####Python####
 print(menu.center(14))         #    Python   
 print(menu.center(14, "*"))    # ****Python****
-print("-".join(menu))          # -Python- 
+print("-".join(menu))          # P-y-t-h-o-n 
