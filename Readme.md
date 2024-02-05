@@ -58,13 +58,3 @@ Se você tiver quaisquer perguntas ou feedback, por favor abra uma issue no repo
 
 Bora codar!
 
-```
-
-Para adicionar isso ao seu arquivo README.md, siga estas etapas:
-
-Acesse o seu repositório no GitHub.
-Clique no arquivo README.md.
-Clique no ícone de lápis (Editar este arquivo) no canto superior direito do conteúdo do arquivo.
-Cole o texto Markdown fornecido na área de edição do arquivo.
-Role para baixo e clique em "Commit changes" para salvar as alterações no arquivo README.md.
-Lembre-se de substituir seu-usuario pelo seu nome de usuário do GitHub
