@@ -23,7 +23,7 @@ Uma vez que o Python esteja instalado, você pode clonar este repositório para 
 
 ```bash
 git clone https://github.com/seu-usuario/exemplos-codigo-python.git
-
+```
 
 
 Substitua seu-usuario pelo seu nome de usuário real do GitHub.
